@@ -16,3 +16,4 @@ resource "helm_release" "applications" {
     }
   }
 }
+
